@@ -2,11 +2,16 @@ Lern-Periode 5
 23.4 bis 25.6.2024
 
 Grob-Planung
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Was wäre ein geeignetes Projekt für diese LP5?
-23.4.2024
+Ich möchte einen Nischenblog zum Thema Krypto erstellen, auf dem ich verschiedene Artikel veröffentliche. Jeder Artikel soll ein eigenes Bild haben und auf einer geeigneten Seite präsentiert werden. Die Website soll benutzerfreundlich aussehen. Dieses Mal werde ich die ersten zwei Wochen damit verbringen, die wichtigsten Codes zu erlernen, und dann beginnen.
+## 23.4.2024
 ✍️ Heute habe ich... (50-100 Wörter)
+Erste Arbietspaket: ich lerne zuerest wie man eine website macht mit hilfe von visual code
+zwiete arbeitspaket : css klass lernen und die wichtigste codes notieren
+dritte arbeitspaket index style seiten machen
+vierte arbeitspaket: website testen und fehlers suchen
+
+
+
 
 30.4.2024
 [ ] Erstes Arbeitspaket
