@@ -5,15 +5,12 @@ Grob-Planung
 Ich möchte einen Nischenblog zum Thema Krypto erstellen, auf dem ich verschiedene Artikel veröffentliche. Jeder Artikel soll ein eigenes Bild haben und auf einer geeigneten Seite präsentiert werden. Die Website soll benutzerfreundlich aussehen. Dieses Mal werde ich die ersten zwei Wochen damit verbringen, die wichtigsten Codes zu erlernen, und dann beginnen.
 ## 23.4.2024
 ✍️ Heute habe ich... (50-100 Wörter)
-da ich am Freitag ein Modultest habe, werde ich an dem Modul arbeiten und alle aufgaben durchschauen
+Ich habe heute viele gedanken gemacht über welche projekt ich machen muss. dann hab ich begonnen ein totourial zu schauen.
 
 
 
 
 30.4.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
-✍️ Heute habe ich... (50-100 Wörter)
+Da ich ein test am freitag schreibe, werde ich heute nur am modul arbeiten.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
