@@ -5,10 +5,7 @@ Grob-Planung
 Ich möchte einen Nischenblog zum Thema Krypto erstellen, auf dem ich verschiedene Artikel veröffentliche. Jeder Artikel soll ein eigenes Bild haben und auf einer geeigneten Seite präsentiert werden. Die Website soll benutzerfreundlich aussehen. Dieses Mal werde ich die ersten zwei Wochen damit verbringen, die wichtigsten Codes zu erlernen, und dann beginnen.
 ## 23.4.2024
 ✍️ Heute habe ich... (50-100 Wörter)
-Erste Arbietspaket: ich lerne zuerest wie man eine website macht mit hilfe von visual code
-zwiete arbeitspaket : css klass lernen und die wichtigste codes notieren
-dritte arbeitspaket index style seiten machen
-vierte arbeitspaket: website testen und fehlers suchen
+da ich am Freitag ein Modultest habe, werde ich an dem Modul arbeiten und alle aufgaben durchschauen
 
 
 
