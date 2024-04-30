@@ -10,7 +10,20 @@ Ich habe heute viele gedanken gemacht über welche projekt ich machen muss. dann
 
 
 
-30.4.2024
+## 30.4.2024
 Da ich ein test am freitag schreibe, werde ich heute nur am modul arbeiten.
+
+
+ich habe heute nur auf dem Modul gearbeitet und werde nächste woche mit meinem Projekt begginen
+
+---
+## 07.05.2024
+erste ap: ich werde css class erstellen und erste codes
+zweite AP: ich werde an external CSS arbeiten
+dritte AP: website kurz testen
+vierte AP :Fehlersuche
+
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
