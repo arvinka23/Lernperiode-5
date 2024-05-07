@@ -23,6 +23,8 @@ zweite AP: ich werde an external CSS arbeiten
 dritte AP: website kurz testen
 vierte AP :Fehlersuche
 
+---
+heute habe ich genau wie geplannt vorgegangen und die Grundlagen von website geamcht und ich habe in die vierte Arbeitspakete meine fehlers gefunden und die website funktioniert und zurzeit
 
 
 
