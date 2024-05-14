@@ -26,6 +26,19 @@ vierte AP :Fehlersuche
 ---
 heute habe ich genau wie geplannt vorgegangen und die Grundlagen von website geamcht und ich habe in die vierte Arbeitspakete meine fehlers gefunden und die website funktioniert und zurzeit
 
+## 14.05.2024:
+Ich werde versuchen, alleine eine Webseite zu bauen, auf der ein Hintergrund und Textelemente an verschiedenen Stellen platziert sind. I
+
+
+ Ich habe wie geplant vorgegangen, jedoch gibt es einen Fehler in meinem Code, und nicht alle Texte können gleichzeitig sichtbar sein. Einige verschwinden, wenn andere angezeigt werden.
+
+ ## 20.05.2024:
+ erste ap: Ich versuche die fehler heausfinden
+ zweite ap: Ich werde bilder zu jede spalte hinzufègen
+ deritte und vierte Ap: Ich füge quellen hinzu und auch ein Kontaktseite.
+
+
+
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
