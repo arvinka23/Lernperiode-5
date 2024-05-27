@@ -32,10 +32,16 @@ Ich werde versuchen, alleine eine Webseite zu bauen, auf der ein Hintergrund und
 
  Ich habe wie geplant vorgegangen, jedoch gibt es einen Fehler in meinem Code, und nicht alle Texte können gleichzeitig sichtbar sein. Einige verschwinden, wenn andere angezeigt werden.
 
- ## 20.05.2024:
+ ## 21.05.2024:
  erste ap: Ich versuche die fehler heausfinden
  zweite ap: Ich werde bilder zu jede spalte hinzufègen
  deritte und vierte Ap: Ich füge quellen hinzu und auch ein Kontaktseite.
+
+ ich habe geschafft alle aufgaben zu machen dann habe ich meine website hochgelden.
+ 28.05.2024
+
+ versuchen einpaar hintergründs bilder aber in verschidene orte bringen also unten oben rechts und links
+ zweite und dritte banner für die website
 
 
 
