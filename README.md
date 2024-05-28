@@ -38,13 +38,14 @@ Ich werde versuchen, alleine eine Webseite zu bauen, auf der ein Hintergrund und
  deritte und vierte Ap: Ich füge quellen hinzu und auch ein Kontaktseite.
 
  ich habe geschafft alle aufgaben zu machen dann habe ich meine website hochgelden.
- 28.05.2024
 
- versuchen einpaar hintergründs bilder aber in verschidene orte bringen also unten oben rechts und links
- zweite und dritte banner für die website
+ ## 28.05.2024
 
+ versuchen einpaar hintergründs bilder aber in verschidene orte bringen also unten oben rechts und links.
+ zweite und dritte banner für die website.
 
+ Ich habe heute alle diese erledigt aber auch die farben angepasst
 
-
+---
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
