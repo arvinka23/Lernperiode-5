@@ -44,8 +44,20 @@ Ich werde versuchen, alleine eine Webseite zu bauen, auf der ein Hintergrund und
  versuchen einpaar hintergründs bilder aber in verschidene orte bringen also unten oben rechts und links.
  zweite und dritte banner für die website.
 
- Ich habe heute alle diese erledigt aber auch die farben angepasst
+ Ich habe heute alle diese erledigt aber auch die farben angepasst.
 
 ---
+## 04.06.2024
+erste und zweite ap: ich werde an modul 293 arbeiten und aufagabe 7711 machen
+dritte und vierte ap: ich werde an modul 293 arbeiten und aufagabe 7712 machen
+
+ich habe diese aufgaben gemacht und sogar mich bisschen mit 7713 beschäftigt
+
+---
+
+## 11.06.2024
+erste und zweite ap: ich werde an modul 293 arbeiten und die sonderaufgaben machen da es für mein Prjekt nötig ist
+dritte und vierte ap: ich werde mich mit modul 122 beschäftigen und mein projekt fetigstellen da wir es in 2 wochen abgeben müssen
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
