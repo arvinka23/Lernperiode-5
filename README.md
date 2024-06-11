@@ -59,5 +59,10 @@ ich habe diese aufgaben gemacht und sogar mich bisschen mit 7713 beschäftigt
 erste und zweite ap: ich werde an modul 293 arbeiten und die sonderaufgaben machen da es für mein Prjekt nötig ist
 dritte und vierte ap: ich werde mich mit modul 122 beschäftigen und mein projekt fetigstellen da wir es in 2 wochen abgeben müssen
 
+---
+## 18.06.2024
+erste und zweite AP: ich werde die portfoliobeitrag von modul 293 machen.
+dritte und vierte AP: ich werde die portfoliobeitrag von modul 122 machen.
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
